@@ -1,0 +1,84 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Data</Value>
+    </Setting>
+    <Setting Name="ExcelTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Data\가상검증팀\Template\Reflectance_Template(don't modify).xlsx</Value>
+    </Setting>
+    <Setting Name="ServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tvdxfile.lge.com</Value>
+    </Setting>
+    <Setting Name="ServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3307</Value>
+    </Setting>
+    <Setting Name="TCPIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ServerID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">optics</Value>
+    </Setting>
+    <Setting Name="ServerPW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">$LCDoled1234</Value>
+    </Setting>
+    <Setting Name="Test_Room" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TV_KR_RND</Value>
+    </Setting>
+    <Setting Name="EP_LDAP_List" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lge.net
+ptkmf10-dc12.lge.net
+156.147.162.251
+PTKMF10-DC13.lge.net
+BSNDR10-DC11.lge.net</Value>
+    </Setting>
+    <Setting Name="defaultSettings" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Data
+D:\Data\가상검증팀\Template\Reflectance_Template(don't modify).xlsx
+tvdxfile.lge.com
+3307
+optics
+1
+optics
+$LCDoled1234
+SD4000
+lge.net
+ptkmf10-dc12.lge.net
+156.147.162.251
+PTKMF10-DC13.lge.net
+BSNDR10-DC11.lge.net
+TV_KR_RND</Value>
+    </Setting>
+    <Setting Name="tempPartCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempPartName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempPartDirection" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempMPYear" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempMPModel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempMPEvent" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tempNote" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InstrumentName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SD4000</Value>
+    </Setting>
+    <Setting Name="DBAdmin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">shook.lee@lge.com</Value>
+    </Setting>
+    <Setting Name="tempPart" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

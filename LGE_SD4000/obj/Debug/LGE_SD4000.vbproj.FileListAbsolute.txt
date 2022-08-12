@@ -1,0 +1,176 @@
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\FarPoint.CalcEngine.dll
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+c:\users\lge\documents\visual studio 2015\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.cache
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CoreCompileInputs.cache
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CopyComplete
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\Projects\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojAssemblyReference.cache
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.cache
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CoreCompileInputs.cache
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\LGE_SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CopyComplete
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojAssemblyReference.cache
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.cache
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CoreCompileInputs.cache
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CopyComplete
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\Downloads\SD4000 _20220315\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+F:\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+F:\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+F:\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+F:\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+F:\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_PartInfo_Submit.resources
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form1.resources
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_PartInfo_Submit.resources
+D:\99.SWDevelopment\SD4000\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_AdminSetting.resources
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Main.resources
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\MySql.Data.dll
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\Google.Protobuf.dll
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\MySql.Data.xml
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.ResolveComReference.cache
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Programs\99.In-House Tester\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Alarm.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\Google.Protobuf.dll
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\MySql.Data.xml
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojAssemblyReference.cache
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.ResolveComReference.cache
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Alarm.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Main.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_AdminSetting.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_PartInfo_Submit.resources
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.cache
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CoreCompileInputs.cache
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.CopyComplete
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.R&D\98.VPD\SW Development\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.ResolveComReference.cache
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\MySql.Data.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\Google.Protobuf.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\ZstdNet.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\BouncyCastle.Crypto.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\Ubiety.Dns.Core.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\System.Buffers.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\K4os.Compression.LZ4.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\K4os.Hash.xxHash.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\MySql.Data.xml
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.LGE_SD4000.exe.config
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Alarm.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Main.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Form_AdminSetting.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Form_PartInfo_Submit.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Login.resources
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.exe.manifest
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\bin\Debug\LGE_SD4000.application
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.exe.manifest
+D:\00.Programs\99.In-House Tester\SD4000(220328)\LGE_SD4000\obj\Debug\LGE_SD4000.application
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.config
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.ResolveComReference.cache
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe.manifest
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.application
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.exe
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.pdb
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\LGE_SD4000.xml
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\MySql.Data.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\Google.Protobuf.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\ZstdNet.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\BouncyCastle.Crypto.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\Ubiety.Dns.Core.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\System.Buffers.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\K4os.Compression.LZ4.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\K4os.Hash.xxHash.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\MySql.Data.xml
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbprojResolveAssemblyReference.cache
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.LGE_SD4000.exe.config
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Alarm.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Login.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_Main.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_AdminSetting.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Resources.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.Form_PartInfo_Submit.resources
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.vbproj.GenerateResource.Cache
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.exe.manifest
+D:\00.Programs\99.In-House Tester\99.SWDevelopment\CompanyProject\SD4000_VB\SD4000\LGE_SD4000\obj\Debug\LGE_SD4000.application

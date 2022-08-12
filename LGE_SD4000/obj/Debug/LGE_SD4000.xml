@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LGE_SD4000
+</name>
+</assembly>
+<members>
+<member name="T:LGE_SD4000.My.Resources.Resources">
+<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.ResourceManager">
+<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Culture">
+<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+  속성을 재정의합니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.BlackWhiteVerticalGradient">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.D65_StandardIlluminants">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.family_illustration_01">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.greenlight">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.HazeMeter_SH7000">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.help_button">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Lab_circle">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Label1_Setting">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Label2_Test_Sequence">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.LGLogo">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.LoginHbar_107_107_107_">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.No1_SetSampleStand">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.No2_ZeroCalibration">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.No3_StandardCalibration">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.No4_Domeasurement">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Plotting_Plot_Chromaticity_Diagram_LUV1976_point6">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Plotting_Plot_Chromaticity_Diagram_point89">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.redlight">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.Reflectance_Transmittance">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.WDSC_Illustration_834x834">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="P:LGE_SD4000.My.Resources.Resources.반사율측정기_SD4000">
+<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+</members>
+</doc>
