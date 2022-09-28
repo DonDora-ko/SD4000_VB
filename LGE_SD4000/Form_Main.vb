@@ -925,8 +925,8 @@ Class Form_Main
             Call setDataonDataGridView1(resultDelimetedByComma)
             Debug.Print(DataGridView1.RowCount)
             If DataGridView1.RowCount > 0 Then
-                DataGridView1.CurrentCell = DataGridView1.Rows(DataGridView1.Rows.Count - 1).Cells(0)
-                Call DataGridView1_SelectionChanged(sender, e)
+                'DataGridView1.CurrentCell = DataGridView1.Rows(DataGridView1.Rows.Count - 1).Cells(0)
+                'Call DataGridView1_SelectionChanged(sender, e)
             Else
             End If
             dataRow_Cnt += 1

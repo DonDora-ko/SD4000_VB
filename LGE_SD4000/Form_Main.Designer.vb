@@ -28,6 +28,13 @@ Partial Class Form_Main
         Dim ChartArea2 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
         Dim Series2 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Dim ChartArea3 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim CustomLabel1 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel2 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel3 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel4 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel5 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel6 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
+        Dim CustomLabel7 As System.Windows.Forms.DataVisualization.Charting.CustomLabel = New System.Windows.Forms.DataVisualization.Charting.CustomLabel()
         Dim Series3 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim ChartArea4 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
@@ -1080,6 +1087,10 @@ Partial Class Form_Main
         '
         'Lchart
         '
+        CustomLabel1.FromPosition = -10.0R
+        CustomLabel1.Text = "0"
+        CustomLabel1.ToPosition = 10.0R
+        ChartArea3.AxisX.CustomLabels.Add(CustomLabel1)
         ChartArea3.AxisX.Interval = 20.0R
         ChartArea3.AxisX.IsLabelAutoFit = False
         ChartArea3.AxisX.IsStartedFromZero = False
@@ -1092,6 +1103,30 @@ Partial Class Form_Main
         ChartArea3.AxisX.Maximum = 1.0R
         ChartArea3.AxisX.Minimum = 0R
         ChartArea3.AxisX.TextOrientation = System.Windows.Forms.DataVisualization.Charting.TextOrientation.Horizontal
+        CustomLabel2.FromPosition = -10.0R
+        CustomLabel2.Text = "0"
+        CustomLabel2.ToPosition = 10.0R
+        CustomLabel3.FromPosition = 10.0R
+        CustomLabel3.Text = "20"
+        CustomLabel3.ToPosition = 30.0R
+        CustomLabel4.FromPosition = 30.0R
+        CustomLabel4.Text = "40"
+        CustomLabel4.ToPosition = 50.0R
+        CustomLabel5.FromPosition = 50.0R
+        CustomLabel5.Text = "60"
+        CustomLabel5.ToPosition = 70.0R
+        CustomLabel6.FromPosition = 70.0R
+        CustomLabel6.Text = "80"
+        CustomLabel6.ToPosition = 90.0R
+        CustomLabel7.FromPosition = 90.0R
+        CustomLabel7.Text = "100"
+        CustomLabel7.ToPosition = 110.0R
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel2)
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel3)
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel4)
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel5)
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel6)
+        ChartArea3.AxisY.CustomLabels.Add(CustomLabel7)
         ChartArea3.AxisY.Interval = 20.0R
         ChartArea3.AxisY.IsLabelAutoFit = False
         ChartArea3.AxisY.LabelAutoFitMaxFontSize = 8

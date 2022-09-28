@@ -354,6 +354,10 @@ Public Class Form_PartInfo_Submit
         Dim directionList(1) As String
         Dim searchQuery As String
         Dim dbname As String
+
+        If cmb_Category.Text = "" Then
+            Exit Sub
+        End If
         btn_Submit.Enabled = False
         cmb_PartCategory.Items.Clear()
         cmb_PartName.Items.Clear()
